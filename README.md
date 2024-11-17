@@ -1,5 +1,7 @@
 current version:
+
 generate dataset by ./get_dataset/old_get_data.py
+
 train by ./train/attention_train.ipynb and ./train/mlp.ipynb
 
 
