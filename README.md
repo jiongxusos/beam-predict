@@ -1,3 +1,8 @@
+current version:
+generate dataset by ./get_dataset/old_get_data.py
+train by ./train/attention_train.ipynb and ./train/mlp.ipynb
+
+
 # data 
 based on https://github.com/lifangnan/GPU-Accelerated-Beam-Simulation-Algorithm-PKU and https://github.com/apphys/hpsim
 
